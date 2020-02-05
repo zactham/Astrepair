@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{E5B5C103-9A2C-4311-BF24-F0704B1A1200}" SchemaVersion="94">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{E5B5C103-9A2C-4311-BF24-F0704B1A1200}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="Charge Sound" ID="{85D1756E-6D5C-45FE-A9D7-5A7BB8D22F2D}" ShortID="847572536">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{E0EDB7B2-6EE1-438A-8336-8F2760CFC900}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{6511A808-4152-4C4E-8345-2CAFC5FBC569}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Charging Sound" ID="{0BE23E41-35D4-4CF3-B927-321FAC47E2E2}" ShortID="91823417">
+							<Language>SFX</Language>
+							<AudioFile>Charging Sound.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="Charging Sound" ID="{0BE23E41-35D4-4CF3-B927-321FAC47E2E2}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="Destruction" ID="{58631AE9-3D11-41D2-8AFE-5118F8279527}" ShortID="115120020">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{E0EDB7B2-6EE1-438A-8336-8F2760CFC900}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{6511A808-4152-4C4E-8345-2CAFC5FBC569}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Destruction" ID="{D078D16F-79BF-4CAF-A8FF-1E5807DE03F7}" ShortID="452264270">
+							<Language>SFX</Language>
+							<AudioFile>Destruction.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="Destruction" ID="{D078D16F-79BF-4CAF-A8FF-1E5807DE03F7}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="Damaged Asteroid" ID="{5A069B29-C480-41EB-BA98-07C56E52C117}" ShortID="616112365">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{E0EDB7B2-6EE1-438A-8336-8F2760CFC900}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{6511A808-4152-4C4E-8345-2CAFC5FBC569}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Damaged Asteroid" ID="{DA8A570C-688E-4398-B512-6872A92FF78C}" ShortID="619363443">
+							<Language>SFX</Language>
+							<AudioFile>Damaged Asteroid.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="Damaged Asteroid" ID="{DA8A570C-688E-4398-B512-6872A92FF78C}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="Low Health" ID="{6A3855C1-3432-4421-B467-78F45410498B}" ShortID="10868701">
+					<PropertyList>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>-17</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{E0EDB7B2-6EE1-438A-8336-8F2760CFC900}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{6511A808-4152-4C4E-8345-2CAFC5FBC569}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Low Health" ID="{B2C14D96-F91B-4B61-A122-40B3CB3205D6}" ShortID="689947984">
+							<Language>SFX</Language>
+							<AudioFile>Low Health.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="Low Health" ID="{B2C14D96-F91B-4B61-A122-40B3CB3205D6}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="Death Alien" ID="{97A02A28-E1D3-4EB1-A602-EC17BE8414B7}" ShortID="431750821">
+					<PropertyList>
+						<Property Name="Lowpass" Type="int16">
+							<ValueList>
+								<Value>41</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{E0EDB7B2-6EE1-438A-8336-8F2760CFC900}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{6511A808-4152-4C4E-8345-2CAFC5FBC569}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Death Alien" ID="{A5066C30-D68E-43C7-8DE0-EEA8D9AD7396}" ShortID="266459134">
+							<Language>SFX</Language>
+							<AudioFile>Death Alien.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="Death Alien" ID="{A5066C30-D68E-43C7-8DE0-EEA8D9AD7396}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="Boop" ID="{D2C9CC3B-9E00-43BA-AE4C-D30195E4C4C8}" ShortID="47772086">
+					<PropertyList>
+						<Property Name="Lowpass" Type="int16">
+							<ValueList>
+								<Value>60</Value>
+							</ValueList>
+						</Property>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>-6</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{E0EDB7B2-6EE1-438A-8336-8F2760CFC900}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{6511A808-4152-4C4E-8345-2CAFC5FBC569}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Boop" ID="{DC83CC60-1E81-47A1-8C31-30B4CA194DC5}" ShortID="109850391">
+							<Language>SFX</Language>
+							<AudioFile>Boop.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="Boop" ID="{DC83CC60-1E81-47A1-8C31-30B4CA194DC5}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="Menue Sound" ID="{54AE1B7D-CAC1-48C4-A2F0-22F629103B4B}" ShortID="195562377">
+					<PropertyList>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>-9</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{E0EDB7B2-6EE1-438A-8336-8F2760CFC900}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{6511A808-4152-4C4E-8345-2CAFC5FBC569}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="BBBBBB" ID="{D181747E-3A3B-4468-BBF3-5AD37201EE1A}" ShortID="168876401">
+							<Language>SFX</Language>
+							<AudioFile>BBBBBB.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="BBBBBB" ID="{D181747E-3A3B-4468-BBF3-5AD37201EE1A}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{4CDC367B-8074-4FA0-BD5D-8DF8484BC91A}" SchemaVersion="94">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{4CDC367B-8074-4FA0-BD5D-8DF8484BC91A}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Music" ID="{85E12B97-462B-4373-9832-6616E49CEEA0}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Alien_Here" ID="{0AA6E2A8-ABA6-4026-BE63-1A81A72BF2D8}" WorkUnitID="{8286B95F-65D2-483E-8D38-7E480D86D4F8}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Lazor" ID="{24D3190C-EF9F-418B-A958-837B58484A97}" WorkUnitID="{8286B95F-65D2-483E-8D38-7E480D86D4F8}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Default Work Unit" ID="{91FCC328-E1FF-4222-92A9-9303766FC6BC}" WorkUnitID="{91FCC328-E1FF-4222-92A9-9303766FC6BC}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Default Work Unit" ID="{E5B5C103-9A2C-4311-BF24-F0704B1A1200}" WorkUnitID="{E5B5C103-9A2C-4311-BF24-F0704B1A1200}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Fuck_Choir" ID="{3AECDB2F-B302-4332-9A94-E55F01169269}" WorkUnitID="{8286B95F-65D2-483E-8D38-7E480D86D4F8}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Hhehehehehe" ID="{ABF97FDE-9AFB-4565-8A86-113DE6A8E52C}" WorkUnitID="{8286B95F-65D2-483E-8D38-7E480D86D4F8}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Phase_1_Music" ID="{A98E0BD7-CAAA-45C4-90FD-B1C66B5ADD9B}" WorkUnitID="{8286B95F-65D2-483E-8D38-7E480D86D4F8}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Music" ID="{03B1A433-E988-45ED-A4F7-11F7FA6E4AC3}" WorkUnitID="{8286B95F-65D2-483E-8D38-7E480D86D4F8}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Astrodi_Destroyed" ID="{5D0AE092-3E39-469C-84EC-A35567E9ACEB}" WorkUnitID="{8286B95F-65D2-483E-8D38-7E480D86D4F8}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Alien_Dead" ID="{141E96D9-1823-49D3-A740-39EF04584C24}" WorkUnitID="{8286B95F-65D2-483E-8D38-7E480D86D4F8}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="New_Event" ID="{0D65187A-535F-4A01-B7B0-C90DB2EB8223}" WorkUnitID="{8286B95F-65D2-483E-8D38-7E480D86D4F8}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Phase_5_Music" ID="{EA3A7631-1FF4-4A35-86B4-205117FE3D82}" WorkUnitID="{8286B95F-65D2-483E-8D38-7E480D86D4F8}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="FUUUUUUUUUUUUUUUCK" ID="{5627F022-CFCB-4BF8-B5D6-DF740CFAF637}" WorkUnitID="{8286B95F-65D2-483E-8D38-7E480D86D4F8}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Astroid_Hurt" ID="{49AAC94C-7135-4C70-8184-041CF0BB7115}" WorkUnitID="{8286B95F-65D2-483E-8D38-7E480D86D4F8}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Phase_4_Music" ID="{F53240A7-8CF2-4DA0-B66E-C24349E8115A}" WorkUnitID="{8286B95F-65D2-483E-8D38-7E480D86D4F8}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Phase_3_Music" ID="{3C0B06AA-5336-4DE4-A7E3-C45FD37F1F02}" WorkUnitID="{8286B95F-65D2-483E-8D38-7E480D86D4F8}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Charge_Up" ID="{93716105-815A-4DFC-8D8D-D9C876663BE0}" WorkUnitID="{8286B95F-65D2-483E-8D38-7E480D86D4F8}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Gameplay" ID="{23F4BDDC-2C16-4F21-BC4E-C35845194CB5}" WorkUnitID="{91FCC328-E1FF-4222-92A9-9303766FC6BC}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Alien_Gone" ID="{0055EF2A-0BCC-4F6C-9CCD-4327E9D0941A}" WorkUnitID="{8286B95F-65D2-483E-8D38-7E480D86D4F8}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

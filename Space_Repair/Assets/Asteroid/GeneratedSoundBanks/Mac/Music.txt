@@ -1,0 +1,53 @@
+Event	ID	Name			Wwise Object Path	Notes
+	168168442	Phase_5_Music			\Default Work Unit\Phase_5_Music	
+	337807142	FUUUUUUUUUUUUUUUCK			\Default Work Unit\FUUUUUUUUUUUUUUUCK	
+	566639154	Hhehehehehe			\Default Work Unit\Hhehehehehe	
+	716424948	Fuck_Choir			\Default Work Unit\Fuck_Choir	
+	971877384	Alien_Gone			\Default Work Unit\Alien_Gone	
+	1317672183	Alien_Here			\Default Work Unit\Alien_Here	
+	1324040358	Phase_1_Music			\Default Work Unit\Phase_1_Music	
+	1625617807	Alien_Dead			\Default Work Unit\Alien_Dead	
+	2077340280	Phase_3_Music			\Default Work Unit\Phase_3_Music	
+	2382674047	Astroid_Hurt			\Default Work Unit\Astroid_Hurt	
+	2602233331	Phase_4_Music			\Default Work Unit\Phase_4_Music	
+	2686027171	Astrodi_Destroyed			\Default Work Unit\Astrodi_Destroyed	
+	3050945240	New_Event			\Default Work Unit\New_Event	
+	3611967577	Lazor			\Default Work Unit\Lazor	
+	3991942870	Music			\Default Work Unit\Music	
+	4293717823	Charge_Up			\Default Work Unit\Charge_Up	
+
+State Group	ID	Name			Wwise Object Path	Notes
+	89505537	Gameplay			\Default Work Unit\Gameplay	
+	3677180323	Health			\Default Work Unit\Health	
+	3940318752	Enemy_Aware			\Default Work Unit\Enemy_Aware	
+
+State	ID	Name	State Group			Notes
+	0	None	Gameplay			
+	1622949418	Phase_5	Gameplay			
+	1622949419	Phase_4	Gameplay			
+	1622949421	Phase_2	Gameplay			
+	1622949422	Phase_1	Gameplay			
+	2656927103	Phas_3	Gameplay			
+	0	None	Health			
+	655265632	Alive	Health			
+	2044049779	Dead	Health			
+	0	None	Enemy_Aware			
+	1159344187	Easy_Alien	Enemy_Aware			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	1199781	B section	Y:\Documents\Space_Repair\Assets\Asteroid\.cache\Mac\SFX\B section_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Gameplay\Phase 1\B section\B section		4703920
+	91823417	Charge Sound	Y:\Documents\Space_Repair\Assets\Asteroid\.cache\Mac\SFX\Charging Sound_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Charge Sound		441144
+	109850391	Boop	Y:\Documents\Space_Repair\Assets\Asteroid\.cache\Mac\SFX\Boop_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Boop		261280
+	168876401	Menue Sound	Y:\Documents\Space_Repair\Assets\Asteroid\.cache\Mac\SFX\BBBBBB_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Menue Sound		523408
+	266459134	Death Alien	Y:\Documents\Space_Repair\Assets\Asteroid\.cache\Mac\SFX\Death Alien_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Death Alien		785552
+	379430544	Creepy Bass_1	Y:\Documents\Space_Repair\Assets\Asteroid\.cache\Mac\SFX\Creepy Bass_1_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Gameplay\Phase 1\Ambient Loop\Creepy Bass_1		7343248
+	452264270	Destruction	Y:\Documents\Space_Repair\Assets\Asteroid\.cache\Mac\SFX\Destruction_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Destruction		523424
+	531930726	Transition	Y:\Documents\Space_Repair\Assets\Asteroid\.cache\Mac\SFX\Transition_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Gameplay\Phase 5\Transition\Transition		1820336
+	619363443	Damaged Asteroid	Y:\Documents\Space_Repair\Assets\Asteroid\.cache\Mac\SFX\Damaged Asteroid_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Damaged Asteroid		523424
+	677759112	AnvilAlien Hunt_2	Y:\Documents\Space_Repair\Assets\Asteroid\.cache\Mac\SFX\AnvilAlien Hunt_2_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Gameplay\Alien Here\Alien Here\AnvilAlien Hunt_2		1969296
+	689947984	Low Health	Y:\Documents\Space_Repair\Assets\Asteroid\.cache\Mac\SFX\Low Health_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Low Health		352976
+	710952430	GAME O V E R	Y:\Documents\Space_Repair\Assets\Asteroid\.cache\Mac\SFX\GAME O V E R_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Gameplay\Death Stinger\GAME O V E R\GAME O V E R		1309808
+	806541686	A section	Y:\Documents\Space_Repair\Assets\Asteroid\.cache\Mac\SFX\A section_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Gameplay\Phase 1\A section\A section		3655344
+	849131320	Inst 5Alien Hunt_1	Y:\Documents\Space_Repair\Assets\Asteroid\.cache\Mac\SFX\Inst 5Alien Hunt_1_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Gameplay\Alien Here\Alien Here\Inst 5Alien Hunt_1		2886800
+	977252240	Steel String Acoustic_1	Y:\Documents\Space_Repair\Assets\Asteroid\.cache\Mac\SFX\Steel String Acoustic_1_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Gameplay\Phase 1\Ambient Loop\Steel String Acoustic_1		2819744
+

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="94">
+	<ValidationCacheItem File="Y:\Documents\Asteroid\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1580586455" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Asteroid\Actor-Mixer Hierarchy\Factory Motion.wwu" DateLow="1580572671" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Asteroid\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="1575919783" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Asteroid\Actor-Mixer Hierarchy\Factory SoundSeed Grain.wwu" DateLow="1580594123" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Asteroid\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1575919783" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Asteroid\Asteroid.crossover.wsettings" DateLow="1580595708" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Asteroid\Asteroid.wproj" DateLow="1580595717" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Asteroid\Attenuations\Default Work Unit.wwu" DateLow="1580571808" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Asteroid\Audio Devices\Default Work Unit.wwu" DateLow="1580572671" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Asteroid\Control Surface Sessions\Default Work Unit.wwu" DateLow="1580571808" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Asteroid\Conversion Settings\Default Work Unit.wwu" DateLow="1580571808" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Asteroid\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1575919781" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Asteroid\Conversion Settings\Factory SoundSeed Grain.wwu" DateLow="1575919783" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Asteroid\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1580571808" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Asteroid\Effects\Default Work Unit.wwu" DateLow="1580571808" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Asteroid\Effects\Factory Altiverb - Outdoor and More.wwu" DateLow="1575919783" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Asteroid\Effects\Factory Auro Headphone.wwu" DateLow="1575919783" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Asteroid\Effects\Factory Convolution Reverb Effects Ambisonics.wwu" DateLow="1580594123" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Asteroid\Effects\Factory Convolution Reverb Effects Stereo.wwu" DateLow="1580594123" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Asteroid\Effects\Factory Effects.wwu" DateLow="1575919781" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Asteroid\Effects\Factory iZotope Box Modeler.wwu" DateLow="1575919783" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Asteroid\Effects\Factory iZotope Delay.wwu" DateLow="1575919783" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Asteroid\Effects\Factory iZotope Dynamics.wwu" DateLow="1575919783" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Asteroid\Effects\Factory iZotope Filters.wwu" DateLow="1575919783" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Asteroid\Effects\Factory iZotope Hybrid Reverb Effects.wwu" DateLow="1575919783" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Asteroid\Effects\Factory iZotope Multiband Distortion.wwu" DateLow="1575919783" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Asteroid\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="1575919783" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Asteroid\Effects\Factory McDSP Effects.wwu" DateLow="1575919782" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Asteroid\Events\Default Work Unit.wwu" DateLow="1580589253" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Asteroid\Game Parameters\Default Work Unit.wwu" DateLow="1580571808" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Asteroid\Game Parameters\Factory Motion.wwu" DateLow="1575919782" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Asteroid\Game Parameters\Factory SoundSeed Air Game Syncs.wwu" DateLow="1575919783" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Asteroid\Game Parameters\Factory SoundSeed Grain.wwu" DateLow="1575919783" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Asteroid\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1580589816" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Asteroid\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1580572670" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Asteroid\Mixing Sessions\Default Work Unit.wwu" DateLow="1580571808" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Asteroid\Modulators\Default Work Unit.wwu" DateLow="1580571808" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Asteroid\Presets\Default Work Unit.wwu" DateLow="1580571808" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Asteroid\Queries\Default Work Unit.wwu" DateLow="1580571808" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Asteroid\Queries\Factory Queries.wwu" DateLow="1575919781" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Asteroid\SoundBanks\Default Work Unit.wwu" DateLow="1580595704" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Asteroid\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1580571808" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Asteroid\States\Default Work Unit.wwu" DateLow="1580589253" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Asteroid\Switches\Default Work Unit.wwu" DateLow="1580571808" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Asteroid\Triggers\Default Work Unit.wwu" DateLow="1580571808" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Asteroid\Virtual Acoustics\Default Work Unit.wwu" DateLow="1580571808" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Asteroid\Virtual Acoustics\Factory Reflect Acoustic Textures.wwu" DateLow="1575919782" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Space_Repair\Assets\Asteroid\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1580659693" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Space_Repair\Assets\Asteroid\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="1575919783" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Space_Repair\Assets\Asteroid\Actor-Mixer Hierarchy\Factory SoundSeed Grain.wwu" DateLow="1580594123" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Space_Repair\Assets\Asteroid\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1575919783" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Space_Repair\Assets\Asteroid\Asteroid.crossover.wsettings" DateLow="1580609719" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Space_Repair\Assets\Asteroid\Asteroid.wproj" DateLow="1580595717" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Space_Repair\Assets\Asteroid\Attenuations\Default Work Unit.wwu" DateLow="1580571808" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Space_Repair\Assets\Asteroid\Audio Devices\Default Work Unit.wwu" DateLow="1580572671" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Space_Repair\Assets\Asteroid\Control Surface Sessions\Default Work Unit.wwu" DateLow="1580571808" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Space_Repair\Assets\Asteroid\Conversion Settings\Default Work Unit.wwu" DateLow="1580571808" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Space_Repair\Assets\Asteroid\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1575919781" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Space_Repair\Assets\Asteroid\Conversion Settings\Factory SoundSeed Grain.wwu" DateLow="1575919783" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Space_Repair\Assets\Asteroid\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1580571808" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Space_Repair\Assets\Asteroid\Effects\Default Work Unit.wwu" DateLow="1580571808" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Space_Repair\Assets\Asteroid\Effects\Factory Altiverb - Outdoor and More.wwu" DateLow="1575919783" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Space_Repair\Assets\Asteroid\Effects\Factory Auro Headphone.wwu" DateLow="1575919783" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Space_Repair\Assets\Asteroid\Effects\Factory Convolution Reverb Effects Ambisonics.wwu" DateLow="1580594123" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Space_Repair\Assets\Asteroid\Effects\Factory Convolution Reverb Effects Stereo.wwu" DateLow="1580594123" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Space_Repair\Assets\Asteroid\Effects\Factory Effects.wwu" DateLow="1575919781" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Space_Repair\Assets\Asteroid\Effects\Factory iZotope Box Modeler.wwu" DateLow="1575919783" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Space_Repair\Assets\Asteroid\Effects\Factory iZotope Delay.wwu" DateLow="1575919783" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Space_Repair\Assets\Asteroid\Effects\Factory iZotope Dynamics.wwu" DateLow="1575919783" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Space_Repair\Assets\Asteroid\Effects\Factory iZotope Filters.wwu" DateLow="1575919783" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Space_Repair\Assets\Asteroid\Effects\Factory iZotope Hybrid Reverb Effects.wwu" DateLow="1575919783" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Space_Repair\Assets\Asteroid\Effects\Factory iZotope Multiband Distortion.wwu" DateLow="1575919783" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Space_Repair\Assets\Asteroid\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="1575919783" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Space_Repair\Assets\Asteroid\Effects\Factory McDSP Effects.wwu" DateLow="1575919782" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Space_Repair\Assets\Asteroid\Events\Default Work Unit.wwu" DateLow="1580667332" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Space_Repair\Assets\Asteroid\Game Parameters\Default Work Unit.wwu" DateLow="1580571808" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Space_Repair\Assets\Asteroid\Game Parameters\Factory Motion.wwu" DateLow="1575919782" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Space_Repair\Assets\Asteroid\Game Parameters\Factory SoundSeed Air Game Syncs.wwu" DateLow="1575919783" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Space_Repair\Assets\Asteroid\Game Parameters\Factory SoundSeed Grain.wwu" DateLow="1575919783" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Space_Repair\Assets\Asteroid\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1580671623" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Space_Repair\Assets\Asteroid\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1580572670" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Space_Repair\Assets\Asteroid\Mixing Sessions\Default Work Unit.wwu" DateLow="1580571808" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Space_Repair\Assets\Asteroid\Modulators\Default Work Unit.wwu" DateLow="1580571808" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Space_Repair\Assets\Asteroid\Presets\Default Work Unit.wwu" DateLow="1580571808" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Space_Repair\Assets\Asteroid\Queries\Default Work Unit.wwu" DateLow="1580571808" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Space_Repair\Assets\Asteroid\Queries\Factory Queries.wwu" DateLow="1575919781" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Space_Repair\Assets\Asteroid\SoundBanks\Default Work Unit.wwu" DateLow="1580670917" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Space_Repair\Assets\Asteroid\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1580602833" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Space_Repair\Assets\Asteroid\States\Default Work Unit.wwu" DateLow="1580589253" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Space_Repair\Assets\Asteroid\Switches\Default Work Unit.wwu" DateLow="1580571808" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Space_Repair\Assets\Asteroid\Triggers\Default Work Unit.wwu" DateLow="1580571808" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Space_Repair\Assets\Asteroid\Virtual Acoustics\Default Work Unit.wwu" DateLow="1580571808" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Space_Repair\Assets\Asteroid\Virtual Acoustics\Factory Reflect Acoustic Textures.wwu" DateLow="1575919782" DateHigh="0"/>
+</ValidationCache>

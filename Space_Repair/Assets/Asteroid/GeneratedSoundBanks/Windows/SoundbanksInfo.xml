@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="134">
+	<RootPaths>
+		<ProjectRoot>/Users/dmytro/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/Space_Repair/Assets/Asteroid/</ProjectRoot>
+		<SourceFilesRoot>/Users/dmytro/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/Space_Repair/Assets/Asteroid/.cache/Windows/</SourceFilesRoot>
+		<SoundBanksRoot>/Users/dmytro/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/Space_Repair/Assets/Asteroid/GeneratedSoundBanks/Windows/</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>/Users/dmytro/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/Space_Repair/Assets/Asteroid/GeneratedSoundBanks/Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3991942870" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Music</ObjectPath>
+			<ShortName>Music</ShortName>
+			<Path>Music.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1625617807" Name="Alien_Dead" ObjectPath="\Events\Default Work Unit\Alien_Dead" DurationType="OneShot" DurationMin="4.452245" DurationMax="4.452245"/>
+				<Event Id="971877384" Name="Alien_Gone" ObjectPath="\Events\Default Work Unit\Alien_Gone" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1317672183" Name="Alien_Here" ObjectPath="\Events\Default Work Unit\Alien_Here" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2686027171" Name="Astrodi_Destroyed" ObjectPath="\Events\Default Work Unit\Astrodi_Destroyed" DurationType="OneShot" DurationMin="2.966168" DurationMax="2.966168"/>
+				<Event Id="2382674047" Name="Astroid_Hurt" ObjectPath="\Events\Default Work Unit\Astroid_Hurt" DurationType="OneShot" DurationMin="2.966168" DurationMax="2.966168"/>
+				<Event Id="4293717823" Name="Charge_Up" ObjectPath="\Events\Default Work Unit\Charge_Up" DurationType="OneShot" DurationMin="2.500000" DurationMax="2.500000"/>
+				<Event Id="716424948" Name="Fuck_Choir" ObjectPath="\Events\Default Work Unit\Fuck_Choir" DurationType="OneShot" DurationMin="2.966168" DurationMax="2.966168"/>
+				<Event Id="337807142" Name="FUUUUUUUUUUUUUUUCK" ObjectPath="\Events\Default Work Unit\FUUUUUUUUUUUUUUUCK" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="566639154" Name="Hhehehehehe" ObjectPath="\Events\Default Work Unit\Hhehehehehe" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3611967577" Name="Lazor" ObjectPath="\Events\Default Work Unit\Lazor" DurationType="OneShot" DurationMin="1.480091" DurationMax="1.480091"/>
+				<Event Id="3991942870" Name="Music" ObjectPath="\Events\Default Work Unit\Music" DurationType="Infinite"/>
+				<Event Id="3050945240" Name="New_Event" ObjectPath="\Events\Default Work Unit\New_Event" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1324040358" Name="Phase_1_Music" ObjectPath="\Events\Default Work Unit\Phase_1_Music" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2077340280" Name="Phase_3_Music" ObjectPath="\Events\Default Work Unit\Phase_3_Music" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2602233331" Name="Phase_4_Music" ObjectPath="\Events\Default Work Unit\Phase_4_Music" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="168168442" Name="Phase_5_Music" ObjectPath="\Events\Default Work Unit\Phase_5_Music" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="1199781" Language="SFX">
+					<ShortName>B section.wav</ShortName>
+					<Path>SFX/B section_D79FB2B7.wem</Path>
+				</File>
+				<File Id="91823417" Language="SFX">
+					<ShortName>Charging Sound.wav</ShortName>
+					<Path>SFX/Charging Sound_10C4C929.wem</Path>
+				</File>
+				<File Id="109850391" Language="SFX">
+					<ShortName>Boop.wav</ShortName>
+					<Path>SFX/Boop_10C4C929.wem</Path>
+				</File>
+				<File Id="168876401" Language="SFX">
+					<ShortName>BBBBBB.wav</ShortName>
+					<Path>SFX/BBBBBB_10C4C929.wem</Path>
+				</File>
+				<File Id="266459134" Language="SFX">
+					<ShortName>Death Alien.wav</ShortName>
+					<Path>SFX/Death Alien_10C4C929.wem</Path>
+				</File>
+				<File Id="379430544" Language="SFX">
+					<ShortName>Creepy Bass_1.wav</ShortName>
+					<Path>SFX/Creepy Bass_1_D79FB2B7.wem</Path>
+				</File>
+				<File Id="452264270" Language="SFX">
+					<ShortName>Destruction.wav</ShortName>
+					<Path>SFX/Destruction_10C4C929.wem</Path>
+				</File>
+				<File Id="531930726" Language="SFX">
+					<ShortName>Transition.wav</ShortName>
+					<Path>SFX/Transition_D79FB2B7.wem</Path>
+				</File>
+				<File Id="619363443" Language="SFX">
+					<ShortName>Damaged Asteroid.wav</ShortName>
+					<Path>SFX/Damaged Asteroid_10C4C929.wem</Path>
+				</File>
+				<File Id="677759112" Language="SFX">
+					<ShortName>AnvilAlien Hunt_2.wav</ShortName>
+					<Path>SFX/AnvilAlien Hunt_2_D79FB2B7.wem</Path>
+				</File>
+				<File Id="689947984" Language="SFX">
+					<ShortName>Low Health.wav</ShortName>
+					<Path>SFX/Low Health_10C4C929.wem</Path>
+				</File>
+				<File Id="710952430" Language="SFX">
+					<ShortName>GAME O V E R.wav</ShortName>
+					<Path>SFX/GAME O V E R_D79FB2B7.wem</Path>
+				</File>
+				<File Id="806541686" Language="SFX">
+					<ShortName>A section.wav</ShortName>
+					<Path>SFX/A section_D79FB2B7.wem</Path>
+				</File>
+				<File Id="849131320" Language="SFX">
+					<ShortName>Inst 5Alien Hunt_1.wav</ShortName>
+					<Path>SFX/Inst 5Alien Hunt_1_D79FB2B7.wem</Path>
+				</File>
+				<File Id="977252240" Language="SFX">
+					<ShortName>Steel String Acoustic_1.wav</ShortName>
+					<Path>SFX/Steel String Acoustic_1_D79FB2B7.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

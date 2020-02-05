@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{8286B95F-65D2-483E-8D38-7E480D86D4F8}" SchemaVersion="94">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{8286B95F-65D2-483E-8D38-7E480D86D4F8}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Phase_1_Music" ID="{A98E0BD7-CAAA-45C4-90FD-B1C66B5ADD9B}">
+					<ChildrenList>
+						<Action Name="" ID="{4787644A-E825-43DC-B4DF-6E697EB07B3C}" ShortID="733218180">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="22"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Phase_1" ID="{175F9F07-21C2-4BC3-B2E5-AA404D6614DA}" WorkUnitID="{D771A6AB-524E-4F26-AF06-23A9632A1D9C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Music" ID="{03B1A433-E988-45ED-A4F7-11F7FA6E4AC3}">
+					<ChildrenList>
+						<Action Name="" ID="{4C0678ED-B01E-442A-947C-2F6F0DD21F29}" ShortID="543169000">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="22"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Alive" ID="{81470A39-885C-4A73-92FB-9E483CF1ACB0}" WorkUnitID="{D771A6AB-524E-4F26-AF06-23A9632A1D9C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{1F006DB3-DE44-4FDE-A081-6F830BBEC22C}" ShortID="559171297">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Gameplay" ID="{23F4BDDC-2C16-4F21-BC4E-C35845194CB5}" WorkUnitID="{91FCC328-E1FF-4222-92A9-9303766FC6BC}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Astroid_Hurt" ID="{49AAC94C-7135-4C70-8184-041CF0BB7115}">
+					<ChildrenList>
+						<Action Name="" ID="{5170343C-2622-4D92-8496-4DC527A7E1B7}" ShortID="438592094">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Damaged Asteroid" ID="{5A069B29-C480-41EB-BA98-07C56E52C117}" WorkUnitID="{E5B5C103-9A2C-4311-BF24-F0704B1A1200}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{05FB5F7B-257D-49A9-A8F9-D08C217B226F}" ShortID="398625999">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Damaged Asteroid" ID="{5A069B29-C480-41EB-BA98-07C56E52C117}" WorkUnitID="{E5B5C103-9A2C-4311-BF24-F0704B1A1200}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Astrodi_Destroyed" ID="{5D0AE092-3E39-469C-84EC-A35567E9ACEB}">
+					<ChildrenList>
+						<Action Name="" ID="{933B9702-A323-4507-852B-16ACC37D8E42}" ShortID="823360111">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Destruction" ID="{58631AE9-3D11-41D2-8AFE-5118F8279527}" WorkUnitID="{E5B5C103-9A2C-4311-BF24-F0704B1A1200}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{CAC92701-0664-4A17-8521-BC45D0D6733F}" ShortID="324930312">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Destruction" ID="{58631AE9-3D11-41D2-8AFE-5118F8279527}" WorkUnitID="{E5B5C103-9A2C-4311-BF24-F0704B1A1200}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Charge_Up" ID="{93716105-815A-4DFC-8D8D-D9C876663BE0}">
+					<ChildrenList>
+						<Action Name="" ID="{62B9AC2C-7D8E-43AF-9C30-4D8548CC25B0}" ShortID="831820614">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Charge Sound" ID="{85D1756E-6D5C-45FE-A9D7-5A7BB8D22F2D}" WorkUnitID="{E5B5C103-9A2C-4311-BF24-F0704B1A1200}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{E675D9F2-6FB9-4EB3-AE84-5FC970994BAB}" ShortID="500362684">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Charge Sound" ID="{85D1756E-6D5C-45FE-A9D7-5A7BB8D22F2D}" WorkUnitID="{E5B5C103-9A2C-4311-BF24-F0704B1A1200}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Hhehehehehe" ID="{ABF97FDE-9AFB-4565-8A86-113DE6A8E52C}"/>
+				<Event Name="Phase_3_Music" ID="{3C0B06AA-5336-4DE4-A7E3-C45FD37F1F02}"/>
+				<Event Name="Phase_4_Music" ID="{F53240A7-8CF2-4DA0-B66E-C24349E8115A}"/>
+				<Event Name="Phase_5_Music" ID="{EA3A7631-1FF4-4A35-86B4-205117FE3D82}">
+					<ChildrenList>
+						<Action Name="" ID="{EA124443-FACB-4719-BBB3-C38612102940}" ShortID="691252166">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="22"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Phase_5" ID="{ED696BE1-50AD-4F87-A458-0493917D70BD}" WorkUnitID="{D771A6AB-524E-4F26-AF06-23A9632A1D9C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Alien_Here" ID="{0AA6E2A8-ABA6-4026-BE63-1A81A72BF2D8}">
+					<ChildrenList>
+						<Action Name="" ID="{4D53E077-D704-43B6-AF71-A89515DF9DFF}" ShortID="446729956">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="22"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Easy_Alien" ID="{EC1FC4F0-0774-4D77-84FB-174587E6BD13}" WorkUnitID="{D771A6AB-524E-4F26-AF06-23A9632A1D9C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Lazor" ID="{24D3190C-EF9F-418B-A958-837B58484A97}">
+					<ChildrenList>
+						<Action Name="" ID="{3B795CA5-BCC1-44DF-9C26-99FB980E82E9}" ShortID="13596872">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Boop" ID="{D2C9CC3B-9E00-43BA-AE4C-D30195E4C4C8}" WorkUnitID="{E5B5C103-9A2C-4311-BF24-F0704B1A1200}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{FAF08DDA-EA2E-4D89-A8F5-36912DB97F2B}" ShortID="411290576">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Boop" ID="{D2C9CC3B-9E00-43BA-AE4C-D30195E4C4C8}" WorkUnitID="{E5B5C103-9A2C-4311-BF24-F0704B1A1200}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Alien_Dead" ID="{141E96D9-1823-49D3-A740-39EF04584C24}">
+					<ChildrenList>
+						<Action Name="" ID="{489E7F33-0C1D-4CFB-B39D-7908E89B8C21}" ShortID="454917303">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Death Alien" ID="{97A02A28-E1D3-4EB1-A602-EC17BE8414B7}" WorkUnitID="{E5B5C103-9A2C-4311-BF24-F0704B1A1200}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{B37386BB-8EF2-4EA0-906D-FA5F9B6E1B76}" ShortID="1035597316">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Death Alien" ID="{97A02A28-E1D3-4EB1-A602-EC17BE8414B7}" WorkUnitID="{E5B5C103-9A2C-4311-BF24-F0704B1A1200}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="FUUUUUUUUUUUUUUUCK" ID="{5627F022-CFCB-4BF8-B5D6-DF740CFAF637}"/>
+				<Event Name="New_Event" ID="{0D65187A-535F-4A01-B7B0-C90DB2EB8223}"/>
+				<Event Name="Fuck_Choir" ID="{3AECDB2F-B302-4332-9A94-E55F01169269}">
+					<ChildrenList>
+						<Action Name="" ID="{77E652AF-4028-4800-A8BF-F9C54086A698}" ShortID="1041939131">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Menue Sound" ID="{54AE1B7D-CAC1-48C4-A2F0-22F629103B4B}" WorkUnitID="{E5B5C103-9A2C-4311-BF24-F0704B1A1200}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{E7281B14-38BA-4D7E-9C93-9ED066E0DA41}" ShortID="168193450">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Menue Sound" ID="{54AE1B7D-CAC1-48C4-A2F0-22F629103B4B}" WorkUnitID="{E5B5C103-9A2C-4311-BF24-F0704B1A1200}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Alien_Gone" ID="{0055EF2A-0BCC-4F6C-9CCD-4327E9D0941A}">
+					<ChildrenList>
+						<Action Name="" ID="{20CBDB17-A469-4331-B90B-4E58F66D0639}" ShortID="358473754">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="22"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="None" ID="{141C994C-6BD4-4EA4-A883-AB86A8419941}" WorkUnitID="{D771A6AB-524E-4F26-AF06-23A9632A1D9C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

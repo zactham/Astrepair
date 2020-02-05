@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ed0a3c65f6b9464468caf3e8d25a82d7
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SF Alien Encounters
+  fontNames:
+  - SF Alien Encounters
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 84e8f8f950b8a76449fbcc60b6520a8b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{D771A6AB-524E-4F26-AF06-23A9632A1D9C}" SchemaVersion="94">
+	<States>
+		<WorkUnit Name="Default Work Unit" ID="{D771A6AB-524E-4F26-AF06-23A9632A1D9C}" PersistMode="Standalone">
+			<ChildrenList>
+				<StateGroup Name="Gameplay" ID="{20453A5E-1D3D-4419-BBB4-666F1219C139}">
+					<ChildrenList>
+						<State Name="None" ID="{CFA54472-66CC-4674-A50C-4708F2669C75}"/>
+						<State Name="Phase_1" ID="{175F9F07-21C2-4BC3-B2E5-AA404D6614DA}"/>
+						<State Name="Phase_2" ID="{C3A565AC-0C25-4621-8003-7D95013DCC95}"/>
+						<State Name="Phas_3" ID="{3A7F9248-51FF-41A5-9B52-83D92BE82C38}"/>
+						<State Name="Phase_4" ID="{5C97EE4F-DFD7-467D-93E7-225323136C5B}"/>
+						<State Name="Phase_5" ID="{ED696BE1-50AD-4F87-A458-0493917D70BD}"/>
+					</ChildrenList>
+				</StateGroup>
+				<StateGroup Name="Health" ID="{1FE1322D-EA5B-48D0-8AA6-4FDDA31B8DED}">
+					<ChildrenList>
+						<State Name="None" ID="{CBDB09E3-61C6-42BC-884C-CE965C350EAF}"/>
+						<State Name="Alive" ID="{81470A39-885C-4A73-92FB-9E483CF1ACB0}"/>
+						<State Name="Dead" ID="{598A2F62-F867-4EAB-A4DC-0445DADF046B}"/>
+					</ChildrenList>
+				</StateGroup>
+				<StateGroup Name="Enemy_Aware" ID="{C16D3C27-F540-4D6A-A24F-A53E5D18D2A8}">
+					<ChildrenList>
+						<State Name="None" ID="{141C994C-6BD4-4EA4-A883-AB86A8419941}"/>
+						<State Name="Easy_Alien" ID="{EC1FC4F0-0774-4D77-84FB-174587E6BD13}"/>
+					</ChildrenList>
+				</StateGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</States>
+</WwiseDocument>
